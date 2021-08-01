@@ -1,0 +1,12 @@
+.info {
+  padding: 10rem 0 20rem;
+  text-align: center;
+}
+.info .btn {
+  background-color: var(--first-brand-color);
+}
+@media screen and (min-width: 1024px) {
+  .info {
+    padding: 15rem 0 25rem;
+  }
+}
